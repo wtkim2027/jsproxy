@@ -1,4 +1,4 @@
-
+演示站点https://jsproxy.cf/
 # 更新
 
 * 2019-06-22 [cfworker 无服务器版](cf-worker) 发布，长期使用演示服务的请使用该版本。
